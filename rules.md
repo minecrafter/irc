@@ -1,6 +1,13 @@
-[Home](index.php) | [Webchat](iris/) | Rules | [Modes and Extbans](modes.php) | [Services](services.php) | [Servers](servers.php)
+---
+layout: default
+title: Rules
+permalink: /rules.html
+---
+
+[Home](index.html) \| [Webchat](iris/) \| Rules \| [Modes and Extbans](modes.html) \| [Services](services.html) \| [Servers](servers.html)
 
 #Spigot IRC Ruleset
+
 #### Draft rev 2014-10-04
 
 The following ruleset is a draft outline of the rules for the SpigotMC IRC network. Whilst these rules may be completely disparate from the final versions, at this point in time they will be enforced as is. irc.spi.gt is a privately owned network, and as such any and all additional enforcement is entirely up to the network staff's discretion.
@@ -37,7 +44,7 @@ The following ruleset is a draft outline of the rules for the SpigotMC IRC netwo
 
 ###Misc
 * Botnets and malicious activities are strictly prohibited.
-* If your activity is regarded as illegal in your country or in one of the countries the network servers reside in (JP, NL, UK, US), it should not be on this network. 
+* If your activity is regarded as illegal in your country or in one of the countries the network servers reside in (JP, NL, UK, US), it should not be on this network.
 * If you are running a bouncer service, it can help to let network staff know your IP address range to prevent block-wide network bans in case an issue arises.
 * Network staff decisions are final and rules will be enforced as the network staff interpret them, leniency may be given either way at the discretion of the staff.
 * If you have any general questions, please stop by #help to get them resolved. If you have questions regarding the rules stated here, please stop by #staff and we can clear up any concerns you may have, as the network staff interpretation may be different from your own.

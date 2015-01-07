@@ -1,0 +1,10 @@
+# Site settings
+title: SpigotMC IRC Network
+description: > # this means to ignore newlines until "baseurl:"
+  The SpigotMC IRC Network is the official network of Spigot, the popular Minecraft
+  server modification.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://irc.spi.gt" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

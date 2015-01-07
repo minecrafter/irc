@@ -1,9 +1,15 @@
-[Home](index.php) | [Webchat](iris/) | [Rules](rules.php) | Modes and Extbans | [Services](services.php) | [Servers](servers.php)
+---
+layout: default
+title: Modes and Extbans
+permalink: /modes.html
+---
+
+[Home](index.html) \| [Webchat](iris/) \| [Rules](rules.html) \| Modes and Extbans \| [Services](services.html) \| [Servers](servers.html)
 
 #Spigot IRC Modes and Extbans
 
 ##Channel Permission Modes
-Note: To automatically grant someone a permission mode when they join the channel, you should use [ChanServ](services.php).
+Note: To automatically grant someone a permission mode when they join the channel, you should use [ChanServ](services.html).
 
 | Mode | Char | Arguments | Description |
 | ---- | ---- | --------- | ----------- |
@@ -67,6 +73,7 @@ Acting extended bans can be used with channel modes +b and +e as a prefix to the
 | T: | Blocks channel notices from the specified user. |
 
 ##User Modes
+
 | Mode | Description |
 | ---- | ----------- |
 | B | Marks the user as a bot. All bots should automatically set this mode on themselves when joining the network. |

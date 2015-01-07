@@ -1,4 +1,10 @@
-[Home](index.php) | [Webchat](iris/) | [Rules](rules.php) | [Modes and Extbans](modes.php) | [Services](services.php) | Servers
+---
+layout: default
+title: Servers
+permalink: /servers.html
+---
+
+[Home](index.html) \| [Webchat](iris/) \| [Rules](rules.html) \| [Modes and Extbans](modes.html) \| [Services](services.html) \| Servers
 
 #Spigot IRC Servers
 
