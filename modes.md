@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Modes and Extbans
-permalink: /modes.html
+permalink: /modes/
 ---
 
-[Home](index.html) \| [Webchat](iris/) \| [Rules](rules.html) \| Modes and Extbans \| [Services](services.html) \| [Servers](servers.html)
+[Home](/) \| [Webchat](/iris/) \| [Rules](/rules/) \| Modes and Extbans \| [Services](/services/) \| [Servers](/servers/)
 
 #Spigot IRC Modes and Extbans
 
 ##Channel Permission Modes
-Note: To automatically grant someone a permission mode when they join the channel, you should use [ChanServ](services.html).
+Note: To automatically grant someone a permission mode when they join the channel, you should use [ChanServ](/services/).
 
 | Mode | Char | Arguments | Description |
 | ---- | ---- | --------- | ----------- |

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Rules
-permalink: /rules.html
+permalink: /rules/
 ---
 
-[Home](index.html) \| [Webchat](iris/) \| Rules \| [Modes and Extbans](modes.html) \| [Services](services.html) \| [Servers](servers.html)
+[Home](/) \| [Webchat](/iris/) \| Rules \| [Modes and Extbans](/modes/) \| [Services](/services/) \| [Servers](/servers/)
 
 #Spigot IRC Ruleset
 

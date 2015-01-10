@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Servers
-permalink: /servers.html
+permalink: /servers/
 ---
 
-[Home](index.html) \| [Webchat](iris/) \| [Rules](rules.html) \| [Modes and Extbans](modes.html) \| [Services](services.html) \| Servers
+[Home](/) \| [Webchat](/iris/) \| [Rules](/rules/) \| [Modes and Extbans](/modes/) \| [Services](/services/) \| Servers
 
 #Spigot IRC Servers
 
